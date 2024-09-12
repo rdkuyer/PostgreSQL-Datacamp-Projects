@@ -3,6 +3,6 @@ These are guided projects offered on Datacamp. Note, most are updated to be able
 Main skills used:
 - CASE WHEN statements
 - Window functions
-- subqeury
+- Subqeury
 - CTE
 - Joins
